@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+<domain-config cleartextTrafficPermitted="true">
+    <domain includeSubdomains="true">https://5e99a9b1bc561b0016af3540.mockapi.io/jet2/api/v1/</domain>
+</domain-config>
+<base-config cleartextTrafficPermitted="false" />
+</network-security-config>
